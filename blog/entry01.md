@@ -7,7 +7,7 @@ For my APCSA class we have a year long project in where we can create anything w
 ### What I am doing for a couple of weeks
 * Continue using the Swift Playground app to learn more about C++
 * Watch more videos
-* Play in the Swift Playground to test code
+* Play in the Swift Playground to test code by looking at the documentation at swift website
 
 
 
