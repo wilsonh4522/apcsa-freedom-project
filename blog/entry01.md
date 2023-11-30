@@ -4,6 +4,8 @@
 ### Content
 For my APCSA class we have a year long project in where we can create anything we want with any tool. For my project I will me **making an alarm clock that will not stop ringing until you do a task to stop it**. That way you are able to wakeup and feel awake. I will be making this project with Swift, a **C++ programing language**. I have so far tinkered with Swift by downloading the app [Swift Playground](https://developer.apple.com/swift-playgrounds/) and looking through the [Swift documentation](https://www.swift.org/documentation/). In that app I am doing **tutorials** about C++ and learning more about it. For example in that app it will tell me to make the character move by calling a function. I am also watching [videos](https://www.youtube.com/watch?v=yuo50-TiKgo) about people using swift to make a project to better familiarize it. 
 
+[Swift playground](swift-playground)
+
 ### EDP
 In the egineering design process I am **defining a problem and brainstorming solutions**. I wanted to do a project in which I find passion in so I had a problem which is waking up late and feeling sleepy when I wake up. So I brainstormed possible solutions for this app to solve my issues. I came up of an idea of making an annoying alarm clock to wake me up.
 
