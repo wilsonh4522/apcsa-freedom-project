@@ -16,7 +16,13 @@ Project: **An alram that won't stop ringing until you do a task**
 * Today I will try coding swift with replit and trying some components from the swift documentation. I tried coding time by looking at this swift [component](https://developer.apple.com/documentation/foundation/dates_and_times) since I will be needing to use time for my alarm. I am still deciding if I want to do a [timer](https://developer.apple.com/documentation/foundation/timer) or a fixed time. I am figuring out which is easier for my MVP (Minimal Viable Product). Since I am making an alarm so I need sound so I looked at this [documentation](https://developer.apple.com/documentation/soundanalysis/) about sound and began tinkering about it. Using replit is a bit confusing to use so I will go home and use Swift Playground. One challenge I face is that there are a lot of components of each timer and sound so I don't know which one to use.
 
 12/4/23:
-* Today I wanted to find out if I needed to download x code if I wanted to create my project. 
+* Today I wanted to find out if I needed to download x code if I wanted to create my project. I also began looking more at what compnents I will use when making the project.
+
+12/18/23
+* Today in class I began looking at projects made from Swift. I also looked at some of the code it uses so I can better familiarize myself with it.
+
+1/8/24
+* Today in class I began to familiarize myself more with Swift. I looked more at documentation, videos, and other projects.
 
 
 <!-- 
