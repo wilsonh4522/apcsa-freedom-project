@@ -24,6 +24,8 @@ Project: **An alram that won't stop ringing until you do a task**
 1/8/24
 * Today in class I began to familiarize myself more with Swift. I looked more at documentation, videos, and other projects.
 
+1/22/24
+* Today in class I began looking at some of the componets I will use in my project. For example I have to get the user's input for the time they want to wake up. I also am looking at sound so the user can wake up.
 
 <!-- 
 * Links you used today (websites, videos, etc)
