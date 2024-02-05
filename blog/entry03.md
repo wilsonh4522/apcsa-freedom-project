@@ -7,6 +7,7 @@ For my project I will be creating an alarm that will only stop when a person sol
 ### EDP    
 In the Engineering Design Process, I am planning the most promising and minimal solution. I am doing this by figuring out a way to make a counter that will count to a certain number. I also need to fugure out how to lock the user from stoping the sound and forcing them to solve the math problem. I can use this [component](https://developer.apple.com/documentation/foundation/timer) in swift but I will need to figure out how to use it. 
 ### Skils learned 
+S
 
 [Previous](entry02.md) | [Next](entry04.md)
 
