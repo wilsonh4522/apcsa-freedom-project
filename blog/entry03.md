@@ -12,7 +12,6 @@ var body: some View {
             
             DatePicker("", selection: $alarmTime, displayedComponents: .hourAndMinute)
                 .datePickerStyle(WheelDatePickerStyle())
-//                .labelsHidden()
             
             Button(action: {
                 
