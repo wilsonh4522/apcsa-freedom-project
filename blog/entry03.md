@@ -31,7 +31,7 @@ var body: some View {
 It looks like the timer from iphone. For the next month or so I wil try to make a function that will take the user's input and make a sound to wake them up in the time they want to wake up. 
 
 ### EDP    
-In the **Engineering Design Process**, I am planning the most promising and minimal solution. I am doing this by figuring out a way to make a counter that will count to a certain number and wake up the user. I also **need to figure out how to make sounds when the alarm rings and make a pop up of a math problem**. I can use this [component](https://developer.apple.com/documentation/foundation/timer) in swift but I will need to figure out how to use it. 
+In the **Engineering Design Process**, I am planning the most promising and minimal solution. I am doing this by figuring out a way to make a counter that will count to a certain number and wake up the user. I also **need to figure out how to make sounds when the alarm rings and make a pop up of a math problem**. I can use this [component](https://developer.apple.com/documentation/foundation/timer) in swift but I will need to figure out how to use it. For the sound I plan to use [this](https://github.com/brimizer/AlarmKit) to make the sound but still need to figure it out.
 
 ### Skils learned 
 The two skills I learned during the past month is **how to learn and read**. When creating the design I had to **learn how to write in swift** this was challenging because it was my first time doing it. I made many mistakes but I learned from it. I learned the skill of "how to read" because I had to **look through some swift documentation to further understand the code**. 
