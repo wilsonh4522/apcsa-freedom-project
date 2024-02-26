@@ -27,6 +27,9 @@ Project: **An alram that won't stop ringing until you do a task**
 1/22/24
 * Today in class I began looking at some of the componets I will use in my project. For example I have to get the user's input for the time they want to wake up. I also am looking at sound so the user can wake up.
 
+2/26/24
+* Today in class I began looking at the to-do list for my freedom project and I need to figure out how to make a functioning alarm for my MVP. I am figruing this out by looking a components in Swfit and reasearching people doing it. I found this [component](https://developer.apple.com/documentation/eventkit/ekcalendaritem/1507397-addalarm) that I may be able to use to make a functioning alarm and [this](https://developer.apple.com/documentation/eventkit/ekalarm/1507227-soundname) can be the the sound of the alarm. I could use [this](https://www.youtube.com/watch?v=pnM_3zcDbjk) and [this](https://www.youtube.com/watch?v=SUA2wzjpYjo) to make sound in my alarm. 
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
