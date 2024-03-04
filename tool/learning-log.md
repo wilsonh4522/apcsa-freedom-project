@@ -28,7 +28,10 @@ Project: **An alram that won't stop ringing until you do a task**
 * Today in class I began looking at some of the componets I will use in my project. For example I have to get the user's input for the time they want to wake up. I also am looking at sound so the user can wake up.
 
 2/26/24
-* Today in class I began looking at the to-do list for my freedom project and I need to figure out how to make a functioning alarm for my MVP. I am figruing this out by looking a components in Swfit and reasearching people doing it. I found this [component](https://developer.apple.com/documentation/eventkit/ekcalendaritem/1507397-addalarm) that I may be able to use to make a functioning alarm and [this](https://developer.apple.com/documentation/eventkit/ekalarm/1507227-soundname) can be the the sound of the alarm. I could use [this](https://www.youtube.com/watch?v=pnM_3zcDbjk) and [this](https://www.youtube.com/watch?v=SUA2wzjpYjo) to make sound in my alarm. 
+* Today in class I began looking at the to-do list for my freedom project and I need to figure out how to make a functioning alarm for my MVP. I am figruing this out by looking a components in Swfit and reasearching people doing it. I found this [component](https://developer.apple.com/documentation/eventkit/ekcalendaritem/1507397-addalarm) that I may be able to use to make a functioning alarm and [this](https://developer.apple.com/documentation/eventkit/ekalarm/1507227-soundname) can be the the sound of the alarm. I could use [this](https://www.youtube.com/watch?v=pnM_3zcDbjk) and [this](https://www.youtube.com/watch?v=SUA2wzjpYjo) to make sound in my alarm.
+
+3/4/24
+* Now that I have researched ways to make sound I need to make a popup math problem. After reasearch a couple of ways I found [this](https://medium.com/@fdika24/creating-modal-popup-in-swift-d34642054fab) tutorial that can help me create a popup math question when the alarm rings. 
 
 <!-- 
 * Links you used today (websites, videos, etc)
