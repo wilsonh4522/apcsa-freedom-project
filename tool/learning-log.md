@@ -33,6 +33,12 @@ Project: **An alram that won't stop ringing until you do a task**
 3/4/24
 * Now that I have researched ways to make sound I need to make a popup math problem. After reasearch a couple of ways I found [this](https://medium.com/@fdika24/creating-modal-popup-in-swift-d34642054fab) tutorial that can help me create a popup math question when the alarm rings. 
 
+3/11/14
+* In class today I couldn't do much but research because I couldn't code with swift in the computers. So I began doing research more about each of the parts and tried some of it at home. I did some research to see if I can code my whole Freedom Project on Swift Playgroud because I wasn't sure if I could do that and if I had to install x code.
+```swift
+var soundName: String? { get set }
+```
+I am trying to figure out how I could make this work by looking at other projects that use this code.
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
