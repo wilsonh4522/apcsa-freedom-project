@@ -46,4 +46,12 @@ I am trying to figure out how I could make this work by looking at other project
 * Questions you still have
 * What you're going to try next
 -->
+3/18
+Today in class I will figure out how to make a pop up math question and user input to stop the alarm. To start this off I began to research ways to do this on the internet and on youtube I found out that I had to use the `readLine()` component to get the user input. I learned this from this [swift documentation](https://developer.apple.com/documentation/swift/readline(strippingnewline:)). I next need to find out to make a pop up in swift. I figured out how to may an [alert](https://developer.apple.com/documentation/uikit/uialertcontroller) like in Javascript  but I am figuring out how to get the user's input from the alert or if that is even possible. Next I will figure how see if the input is correct so that the alarm can stop and also need to figure out how to stop the alarm. 
+```swift
+if let inputData = readLine() {
+   print("Subject is \(inputData)!")
+}
+```
+I could possibly use this code to compare the user input. 
 
