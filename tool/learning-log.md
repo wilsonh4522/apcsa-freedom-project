@@ -54,4 +54,18 @@ if let inputData = readLine() {
 }
 ```
 I could possibly use this code to compare the user input. 
+```swift
+import Foundation
+import Glibc
+
+print("Please enter number 1")
+var num1 = Int(readLine()!)!
+print("Please enter number 2")
+var num2 = Int(readLine()!)!
+
+var sum = num1 + num2
+print("The sum of \(num1) and \(num2) is \(sum)")
+```
+I could also use this to get the user's input. I got this code from [this website](https://www.tutorialspoint.com/swift-program-to-get-input-from-the-user)
+If making an alarm sound will be hard I will use the alert component.
 
