@@ -71,5 +71,18 @@ If making an alarm sound will be hard I will use the alert component.
 
 3/25
 Today in class I will further do more research on how I can do a pop up math question that will get the user's input/answer on the question and check if the input is correct or not. I will also need to figure out how to make the alert stop after the input is correct. So today in class I will do more reseaerch on these topics. I have so far figured out how to make a functioning alarm that will alert the user at a certain time. I might use this `func stop()` function that I found on the swift documentation. I also found [this](https://developer.apple.com/documentation/avfaudio/avaudiosession/categoryoptions) documentation that might me helpful to stop the audio.  
-``
+```swift
+@IBAction func RestartTimerBtn(_ sender: Any) {
+
+    timer.invalidate() // kills the past timer so it can be restarted
+
+    if audioPlayer_Bell.isPlaying == true{
+        audioPlayer_Bell.stop()
+        audioPlayer_Bell.currentTime = 0
+        audioPlayer_Bell.play()
+    }else {
+        audioPlayer_Bell.play()
+    }
+}
+```
 
