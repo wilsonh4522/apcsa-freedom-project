@@ -89,3 +89,6 @@ t. So today in class I will do more reseaerch on these topics. I have so far fig
 4/2
 Today in class I 
 
+4/15
+Today I will figure out how to make my alert turn into a sound. I could use [this](https://developer.apple.com/documentation/usernotifications/unmutablenotificationcontent) to turn my notification into sound. I will then need to figure out how to import a sound or if there is a default one. 
+
