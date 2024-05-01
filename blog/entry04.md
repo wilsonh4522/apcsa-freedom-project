@@ -16,13 +16,7 @@ In APCSA (AP Computer Science A) we are doing a year long freedom project where 
                 
                 let request = UNNotificationRequest(identifier: "alarmNotification", content: content, trigger: trigger)
                 
-                center.add(request) { error in
-                    if let error = error {
-                        print("Error scheduling notification: \(error.localizedDescription)")
-                    } else {
-                        print("Ok")
-                    }
-                }
+                center.add(request) 
             }
         }
     }
