@@ -94,4 +94,10 @@ Today I will figure out how to make my alert turn into a sound. I could use [thi
 ```swift
 let trigger = UNTimeIntervalNotificationTrigger(timeInterval: 5, repeats: false)
 ```
+5/1
+Today in class I will try to make a pop up when the alarm rings. Then I will research on how to get the user's input. 
+```swift
+static let popup: PDFAnnotationSubtype
+```
+I can use this code to make a pop up but I need to figure out how I could code it to make it pop up after the alarm rings. 
 
