@@ -17,7 +17,9 @@ if let textResponse = response as? UNTextInputNotificationResponse {
 
 } 
 ```
+
 In this code I was able to get the input from the alert I had to do [research](https://mahigarg.github.io/blogs/as-operator-in-swift/) on the `as` componment since there were alot of kinds. 
+
 <img width="230" alt="Screenshot 2024-05-30 at 9 36 31 PM" src="https://github.com/wilsonh4522/apcsa-freedom-project/assets/91762146/e811a992-a63a-416a-81f8-1be81c3c4434">
 
 ### EDP
